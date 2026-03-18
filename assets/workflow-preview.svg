@@ -1,0 +1,26 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="420" rx="24" fill="#1A0F08"/>
+  <rect x="24" y="24" width="1152" height="372" rx="20" fill="#2D1A0F" stroke="#F97316"/>
+  <text x="60" y="84" fill="#FFF7ED" font-family="Arial, sans-serif" font-size="34" font-weight="700">Reddit Downloader</text>
+  <text x="60" y="118" fill="#FED7AA" font-family="Arial, sans-serif" font-size="18">Save videos, galleries, images, and post text from visible Reddit posts</text>
+  <rect x="60" y="160" width="300" height="180" rx="18" fill="#3A2213"/>
+  <rect x="450" y="160" width="300" height="180" rx="18" fill="#3A2213"/>
+  <rect x="840" y="160" width="300" height="180" rx="18" fill="#3A2213"/>
+  <circle cx="112" cy="208" r="24" fill="#FB923C"/>
+  <text x="104" y="216" fill="#431407" font-family="Arial, sans-serif" font-size="18" font-weight="700">1</text>
+  <circle cx="502" cy="208" r="24" fill="#FACC15"/>
+  <text x="494" y="216" fill="#422006" font-family="Arial, sans-serif" font-size="18" font-weight="700">2</text>
+  <circle cx="892" cy="208" r="24" fill="#22C55E"/>
+  <text x="884" y="216" fill="#052E16" font-family="Arial, sans-serif" font-size="18" font-weight="700">3</text>
+  <text x="150" y="214" fill="#FFF7ED" font-family="Arial, sans-serif" font-size="26" font-weight="700">Scan visible posts</text>
+  <text x="150" y="248" fill="#FFEDD5" font-family="Arial, sans-serif" font-size="18">Detect videos, images,</text>
+  <text x="150" y="274" fill="#FFEDD5" font-family="Arial, sans-serif" font-size="18">galleries, and text on the page.</text>
+  <text x="540" y="214" fill="#FFF7ED" font-family="Arial, sans-serif" font-size="26" font-weight="700">Review assets</text>
+  <text x="540" y="248" fill="#FFEDD5" font-family="Arial, sans-serif" font-size="18">Choose individual items or</text>
+  <text x="540" y="274" fill="#FFEDD5" font-family="Arial, sans-serif" font-size="18">bulk-download the full set.</text>
+  <text x="930" y="214" fill="#FFF7ED" font-family="Arial, sans-serif" font-size="26" font-weight="700">Save locally</text>
+  <text x="930" y="248" fill="#FFEDD5" font-family="Arial, sans-serif" font-size="18">Keep files for offline</text>
+  <text x="930" y="274" fill="#FFEDD5" font-family="Arial, sans-serif" font-size="18">research or archiving.</text>
+  <path d="M372 250H438" stroke="#F97316" stroke-width="6" stroke-linecap="round"/>
+  <path d="M762 250H828" stroke="#F97316" stroke-width="6" stroke-linecap="round"/>
+</svg>
