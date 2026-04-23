@@ -1,0 +1,10 @@
+{
+  "actorSpecification": 1,
+  "buildTag": "latest",
+  "description": "Reddit Downloader gives users a dependable way to save Reddit videos, images, galleries, and post text for offline reference. Instead of depending on third-party downloader sites, it captures visible Reddit content directly from the browser with a clean local-first workflow.",
+  "input": "./INPUT_SCHEMA.json",
+  "name": "reddit-downloader",
+  "readme": "../ACTOR.md",
+  "title": "Reddit Downloader",
+  "version": "0.0"
+}
