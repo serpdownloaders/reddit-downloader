@@ -1,4 +1,4 @@
-# Reddit Downloader (Browser Extension)
+# Reddit Downloader
 
 > Download Reddit videos, images, galleries, and post text from visible posts in one browser workflow.
 
